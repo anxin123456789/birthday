@@ -7,7 +7,7 @@ var config = {
         "早上好呀",
         "在新的一年",
         "祝你16岁生日快乐",
-         " a small gift",
+         " a small gift"
 // 同上...
         
     ],
