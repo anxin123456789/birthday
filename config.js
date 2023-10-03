@@ -19,6 +19,7 @@ var config = {
      */
     imgs: {
         // "今天是你的生日": "./imgs/birthday.jpg",
+        "生日快乐啦": "./imgs/https://img.alicdn.com/i2/2560782193/O1CN01SdxUFZ1S4REI1wtD2_!!2560782193.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
