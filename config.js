@@ -22,7 +22,7 @@ var config = {
      */
     imgs: {
         // "今天是你的生日": "./imgs/birthday.jpg",
-        " a small gift": " ",
+        " a small gift": "https://github.com/toanxin/birthday/blob/master/imgs/download.jpg ",
         
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
